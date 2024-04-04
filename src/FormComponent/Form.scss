@@ -1,0 +1,18 @@
+.card {
+  width: 50rem;
+  padding: 2rem;
+}
+
+.showIcon {
+  position: absolute;
+  top: 50%;
+  right: 10px;
+  transform: translateY(-50%);
+  padding: 5px;
+  cursor: pointer;
+  font-size: 1.5rem;
+}
+
+.react-datepicker-wrapper {
+  display: inline !important;
+}
